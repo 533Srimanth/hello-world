@@ -1,3 +1,1 @@
-# hello-world
-Trying to learn git
-Super complicated I've heard. Tougher than DOTA?
+Trying to change everything so that I learn ok?
